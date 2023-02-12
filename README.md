@@ -1,2 +1,2 @@
 # EpicAdventure
-Basic Choose Your Own Adventure
+A basic Choose Your Own Adventure from a follow-along tutorial
